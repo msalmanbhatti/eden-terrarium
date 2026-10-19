@@ -1,7 +1,7 @@
 # EDEN — Smart Dual-Plant Terrarium Dashboard
 
-A progressive web app (PWA) dashboard for the **EDEN** smart terrarium — a
-university Interactive Systems project (Team 17, Saarland University). It shows
+A progressive web app (PWA) dashboard for the **EDEN** smart terrarium, a
+university Interactive Systems project (Saarland University). It shows
 live sensor readings, per-zone soil trends, and lets you control the pumps, fan
 and grow light. Vanilla HTML/CSS/JS, zero dependencies, zero CDN calls.
 
@@ -43,7 +43,7 @@ files, the hero-photo, and calibration notes.
 
 ## Acknowledgements
 
-This project was developed by **Team 17** as part of the **Interactive Systems**
+This project was developed as part of the **Interactive Systems**
 course at **Saarland University**.
 
 During development, we used **Claude (Anthropic)** as an AI coding assistant to
