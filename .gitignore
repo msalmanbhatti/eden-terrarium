@@ -1,0 +1,7 @@
+.DS_Store
+.vercel
+
+# Arduino firmware contains WiFi passwords: keep it out of the public repo
+cyd/
+esp32s/
+*.ino

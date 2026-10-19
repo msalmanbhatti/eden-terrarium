@@ -1,0 +1,6 @@
+cyd
+esp32s
+*.ino
+README.md
+dashboard/README.md
+.gitignore
